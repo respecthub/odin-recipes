@@ -1,0 +1,28 @@
+.mainTitle {
+    font-size: 40px;
+    color: red;
+}
+
+.recipe-title {
+    font-size: 30px;
+    color: blue;
+
+}
+
+
+li {
+    color: aqua;
+    background-color: black;
+}
+
+
+.link {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+}
+
+.des {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: green;
+}
